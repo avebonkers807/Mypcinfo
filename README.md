@@ -194,4 +194,4 @@ This repository serves as the official landing page for MyPCInfo. The software i
 **Get the most recent version of MyPCInfo today!**
 
 ---
-**Last updated:** 2026-11-10 03:09:42 UTC
+**Last updated:** 2026-11-10 12:06:09 UTC
